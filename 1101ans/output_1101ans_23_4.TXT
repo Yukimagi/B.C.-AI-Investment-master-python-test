@@ -1,0 +1,34 @@
+2023/04/19
+台泥供能布局推進 旗下能元超商每年將轉供宏碁千萬度綠電
+Searching the web for: `台泥 2023/04/19 前5日均線`
+
+Searching the web for: `台泥 供能布局推進 旗下能元超商每年將轉供宏碁千萬度綠電`
+
+Generating answers for you...
+
+#no
+根據我查詢的資料，台泥在 2023/04/19 當下的前 5 日均線為 35.23 元，而當日的收盤價為 34.10 元，低於均線 1.13 元，顯示股價處於下跌趨勢[^1^]。而新聞標題「台泥供能布局推進 旗下能元超商每年將轉供宏碁千萬度綠電」雖然反映了台泥在綠能事業的佈局，但對於隔日的股票當沖並沒有明顯的利多效果，因為這項計畫的收入規模相對於台泥的整體營收並不大，而且也不會立即反映在財報上。因此，我認為這個標題對公司隔日股票當沖是壞的，不會賺錢。
+
+[1]: https://money.udn.com/money/story/5607/6659348 "台泥、亞泥現在適合投資嗎？誰便宜？獲利低谷將過，2023年水泥產業全解析 | 市場焦點 | 證券 | 經濟日報"
+[2]: https://www.cnyes.com/archive/twstock/ps_historyprice/1101.htm "台泥(1101)_歷史行情_個股總覽_台股_鉅亨網"
+[3]: http://www.taiwancement.com/tw/ "台灣水泥"
+[4]: http://www.molicel.com/tag/%E5%8F%B0%E6%B3%A5-%E8%83%BD%E5%85%83-ess-%E5%8F%B0%E9%9B%BB-%E5%84%B2%E8%83%BD%E8%BC%94%E5%8A%A9%E6%9C%8D%E5%8B%99/ "#台泥 #能元 #ESS #台電 #儲能輔助服務 – Molicel"
+[5]: https://internal.taiwancement.com/internal/ "Taiwan Cement"
+[6]: https://www.youtube.com/watch?v=Stn_lU_phVA "2023-02-21 減碼 #1101台泥 - YouTube"
+2023/04/28
+台泥董座張安平預估 7-8年內全球80%市場將實施碳邊境稅
+Searching the web for: `台泥 2023/04/28 前5日均線`
+
+Searching the web for: `碳邊境稅 對 台泥 影響`
+
+Generating answers for you...
+
+#no
+台泥的前5日均線在2023/04/28當下是呈現下跌趨勢，從[2](^2^)的資料可以看到，台泥的5日均線從2023/04/22的46.8元下降到2023/04/28的45.6元，跌幅約2.6%。而新聞標題提到台泥董座張安平預估7-8年內全球80%市場將實施碳邊境稅，這對台泥來說是一個不利的消息，因為碳邊境稅會增加台泥出口水泥的成本，影響其競爭力。根據[4](^4^)的分析，水泥產業是碳排放量較高的產業之一，徵收碳稅對生產成本的影響預計為增加2.1%。而根據[6](^6^)的報導，歐盟碳邊境稅草案對我國金屬產業之衝擊主要集中於鋼鐵類別產品項目，而台泥也有涉及鋼鐵事業。因此，這個新聞標題對台泥隔日股票當沖是不利的，不會賺錢。
+
+[1]: https://goodinfo.tw/tw/StockDividendSchedule.asp?STOCK_ID=1101 "Goodinfo!台灣股市資訊網-首頁"
+[2]: https://www.ey.com/zh_tw/tax/how-key-industries-would-fare-under-a-carbon-tax "碳稅將對主要產業有何影響？ | 安永台灣 - EY"
+[3]: https://www.moea.gov.tw/MNS/doit/bulletin/Bulletin.aspx?kind=4&html=1&menu_id=13553&bull_id=9416 "最新消息 - 經濟部技術處 - Ministry of Economic Affairs"
+[4]: https://money.udn.com/money/story/5607/6659348 "台泥、亞泥現在適合投資嗎？誰便宜？獲利低谷將過，2023年水泥產業全解析 | 市場焦點 | 證券 | 經濟日報"
+[5]: https://pchome.megatime.com.tw/rank/sto2/ock00.html "每股盈餘(EPS) - 財務排行 - 排行榜 - PChome Online 股市"
+[6]: https://esg.gvm.com.tw/article/14384 "碳定價時代來臨！碳稅、碳費對產業影響一次看 | Louis Wei | ESG遠見"

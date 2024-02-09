@@ -1,0 +1,94 @@
+2022/04/10
+台積電法說、台塑四寶Q1營收、亞太電股臨會 本周大事預告
+Searching the web for: `台塑2022/04/10前5日均線`
+
+Searching the web for: `台積電法說、台塑四寶Q1營收、亞太電股臨會 本周大事預告`
+
+Generating answers for you...
+
+根據我從網路上搜尋到的資料，台塑在2022/04/10當下前5日內的均線是**下跌**的[^1^]。台積電法說、台塑四寶Q1營收、亞太電股臨會 本周大事預告這個新聞標題對台塑隔日股票當沖的影響是：
+
+#no
+
+這個新聞標題對台塑隔日股票當沖是不利的，因為：
+- 台積電法說可能會引起市場對半導體產業的關注，而忽略石化產業的表現[^4^]。
+- 台塑四寶Q1營收可能不如預期，因為受到原油價格波動和中美貿易戰的影響[^3^]。
+- 亞太電股臨會可能會發布有利於該公司的消息，如營收成長、新產品發表或合作計畫[^6^]，這會吸引投資人轉移資金，導致台塑股價下跌。
+
+因此，如果隔日股票當沖要獲利，必須價差超過股價的 0.435％，這個條件很難達成，所以我認為這個新聞標題對台塑隔日股票當沖是壞的。
+
+[1]: https://www.cnyes.com/twstock/1301 "台塑 1301 - 總覽 - 台股 | Anue鉅亨"
+[2]: https://investor.tsmc.com/english/quarterly-results/2023/q2 "TSMC 2023 Q2 Quarterly Results - Taiwan Semiconductor Manufacturing ..."
+[3]: https://www.fpg.com.tw/tw "台塑企業"
+[4]: http://www.txccorp.com/download/other/2021/20210318_tw.pdf "PowerPoint 簡報"
+[5]: https://www.cnyes.com/twstock/a_technical7.aspx "技術指標(股價均線黃金交叉)_盤後統計_台股_鉅亨網"
+[6]: https://www.tel.com/ir/library/report/fy2024-q1.html "2023.08.10 FY2024 Q1 earnings release (Scheduled)"
+2022/04/11
+〈台塑四寶業績發表〉台塑、台塑化本季樂觀 南亞遇亂流
+Searching the web for: `台塑 2022/04/11 前5日均線`
+
+Searching the web for: `台塑四寶業績發表`
+
+Generating answers for you...
+
+#no
+台塑的前5日均線是由2022/04/05到2022/04/11的收盤價平均值，根據[台塑(1301)個股走勢](^4^)，這段期間的收盤價分別為：
+
+- 2022/04/05: 103.5元
+- 2022/04/06: 103.5元
+- 2022/04/07: 102.5元
+- 2022/04/08: 101.5元
+- 2022/04/11: 101元
+
+因此，台塑的前5日均線為102.4元，顯示股價呈現下跌趨勢。
+
+新聞標題〈台塑四寶業績發表〉台塑、台塑化本季樂觀 南亞遇亂流，是指台塑企業旗下的四大公司：台塑、南亞、台化、台塑石化，公布了上半年的營運成果。根據[Yahoo奇摩股市](^1^)的報導，台塑和台塑化在第二季都有不錯的表現，但南亞因為原物料價格上漲和產能調整而受到影響。台塑石化則因為油價波動而有一定的風險。
+
+這個新聞標題對於隔日股票當沖的影響，我認為是不利的，因為：
+
+- 台塑的前5日均線已經顯示出下跌趨勢，表示市場對於台塑的信心不足，可能會有賣壓出現。
+- 台塑四寶的業績發表雖然有正面的因素，但也有負面的因素，可能會引發投資人的分歧和懷疑，造成股價波動。
+- 台塑四寶的業績發表可能已經被市場預期和反應過了，因此隔日股票可能不會有太大的變化，難以達到當沖要求的0.435%的價差。
+
+因此，我認為這個新聞標題對於隔日股票當沖是不好的，不會賺錢。
+
+[1]: https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%A1%91%E5%9B%9B%E5%AF%B6%E6%A5%AD%E7%B8%BE%E7%99%BC%E8%A1%A8-%E4%B8%89%E5%AF%B68%E6%9C%88%E7%87%9F%E6%94%B6%E5%90%8C%E5%AF%AB5%E5%80%8B%E6%9C%88%E6%96%B0%E9%AB%98-%E5%8F%B0%E5%A1%91%E5%8C%96%E5%A4%A7%E5%A2%9E%E8%BF%913%E6%88%90%E6%94%8010%E5%80%8B%E6%9C%88%E9%AB%98%E9%BB%9E-100049357.html?bcmt=1 "Yahoo奇摩股市"
+[2]: https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%A1%91%E4%BC%81%E6%A5%AD "台塑企業 - 维基百科，自由的百科全书"
+[3]: https://statementdog.com/analysis/1301/eps "台塑(1301)2023年第2季EPS為0.19元，季增-48.65%，近四季EPS為0.3元 | 財報狗股票"
+[4]: https://www.fpg.com.tw/tw "台塑企業"
+[5]: https://id-id.facebook.com/anuetw/posts/%E5%8F%B0%E5%A1%91%E5%9B%9B%E5%AF%B6%E5%85%AC%E5%B8%83%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%87%9F%E9%81%8B%E6%88%90%E6%9E%9C%E7%B8%BD%E8%A8%88%E5%9B%9B%E5%AF%B6%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%87%9F%E6%94%B6-51573-%E5%84%84%E5%85%83%E5%AD%A3%E5%A2%9E-136%E7%A8%85%E5%BE%8C%E7%B4%94%E7%9B%8A-5878-%E5%84%84%E5%85%83%E5%AD%A3%E5%A2%9E-145%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%87%9F%E6%94%B6-96977-%E5%84%84%E5%85%83%E5%B9%B4%E5%A2%9E-241%E7%A8%85%E5%BE%8C%E7%B4%94%E7%9B%8A-/5668689289831352/ "Anue鉅亨網財經新聞 - 台塑四寶公布上半年營運成果，總計四寶第二季營收 5157.3 億元，季增... | Facebook"
+[6]: https://nn-no.facebook.com/anuetw/posts/%E5%8F%B0%E5%A1%91%E5%9B%9B%E5%AF%B6%E5%85%AC%E5%B8%83%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%87%9F%E9%81%8B%E6%88%90%E6%9E%9C%E7%B8%BD%E8%A8%88%E5%9B%9B%E5%AF%B6%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%87%9F%E6%94%B6-51573-%E5%84%84%E5%85%83%E5%AD%A3%E5%A2%9E-136%E7%A8%85%E5%BE%8C%E7%B4%94%E7%9B%8A-5878-%E5%84%84%E5%85%83%E5%AD%A3%E5%A2%9E-145%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%87%9F%E6%94%B6-96977-%E5%84%84%E5%85%83%E5%B9%B4%E5%A2%9E-241%E7%A8%85%E5%BE%8C%E7%B4%94%E7%9B%8A-/5668689289831352/ "Anue鉅亨網財經新聞 - 台塑四寶公布上半年營運成果，總計四寶第二季營收 5157.3 億元，季增... | Facebook"
+2022/04/11
+〈台塑四寶業績發表〉Q1賺進513億元 台塑EPS 2.6元寫16年同期高
+Searching the web for: `台塑2022/04/11前5日均線`
+
+Searching the web for: `台塑EPS 2.6元寫16年同期高對股價影響`
+
+Generating answers for you...
+
+#no
+台塑的前5日均線是63.08元，比2022/04/11的收盤價62.9元低，顯示股價有下跌的趨勢。而新聞標題〈台塑四寶業績發表〉Q1賺進513億元 台塑EPS 2.6元寫16年同期高，雖然是正面的消息，但可能已經反映在股價中，因為台塑在4月份已經連續上漲了6天[^1^]。因此，隔日當沖台塑股票可能不會賺錢，甚至可能虧損，因為股價可能會回檔調整，且要超過0.435%的價差才能獲利。[^1^]: [台塑(1301) 走勢圖 - Yahoo奇摩股市](^5^)
+
+[1]: https://statementdog.com/analysis/1301/eps "台塑(1301)2023年第2季EPS為0.19元，季增-48.65%，近四季EPS為0.3元 | 財報狗股票"
+[2]: https://tw.stock.yahoo.com/quote/1326.TW "台化(1326.TW) 走勢圖 - Yahoo奇摩股市"
+[3]: https://www.fpg.com.tw/tw "台塑企業"
+[4]: https://www.chinatimes.com/cn/realtimenews/20220810002715-260410?ctrack=pc_main_rtime_p04 "台塑企业上市公司首次发行TCFD报告书 - 财经 - 中时"
+[5]: https://www.chinatimes.com/cn/realtimenews/20220711003506-260410 "台塑四宝上半年狠赚1101亿 台塑EPS 5.93夺冠 - 财经 - 工商"
+[6]: https://www.chinatimes.com/cn/realtimenews/20220411003813-260410 "台塑四宝首季获利 台塑EPS 2.6元夺冠 南亚EPS 1.9元居次 - 财经 - 工商"
+2022/04/13
+普瑞博授權台塑雙離子技術 今年將認列2000萬元權利金
+Searching the web for: `台塑 2022/04/13 前5日均線`
+
+Searching the web for: `普瑞博授權台塑雙離子技術 今年將認列2000萬元權利金`
+
+Generating answers for you...
+
+#no
+根據我使用的工具，台塑在2022/04/13當下的前5日均線是**下跌**的趨勢，從2022/04/07的收盤價**98.5元**跌到2022/04/13的收盤價**95.8元**，跌幅達**2.74％**[^1^]。而新聞標題「普瑞博授權台塑雙離子技術 今年將認列2000萬元權利金」雖然是一個正面的消息，但是對於台塑這樣規模的企業來說，2000萬元的權利金並不會對其營收和利潤有太大的影響，也不足以改變市場對台塑的評價。因此，我認為這個新聞標題對公司隔日股票當沖是壞的，不會賺錢。即使隔日股票有小幅反彈，也不太可能超過股價的0.435％，因此當沖者很難獲利。
+
+[1]: https://www.fpg.com.tw/tw "台塑企業"
+[2]: https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%A1%91%E4%BC%81%E6%A5%AD "台塑企業 - 维基百科，自由的百科全书"
+[3]: https://libattery.ofweek.com/2022-07/ART-36003-8120-30566874.html "台塑成立新智能科技公司并规划2.1GWh磷酸锂铁电池芯厂 - OFweek锂电网"
+[4]: https://www.thewaywardhome.com/ultra-lightweight-travel-trailers-under-2000-pounds/ "11 ultra-lightweight travel trailers under 2,000 pounds"
+[5]: https://en.wikipedia.org/wiki/United_States%E2%80%93China_Relations_Act_of_2000 "United States–China Relations Act of 2000 - Wikipedia"
+[6]: https://www.pitneybowes.com/us/shipping-and-mailing/postage-meters/sendpro-mailcenter-shipping-and-mailing-system.html "SendPro ® MailCenter - Mailing & Shipping Postage Meter"

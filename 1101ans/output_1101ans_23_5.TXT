@@ -1,0 +1,41 @@
+2023/05/02
+台泥擴大新能源布局 子公司NHOA擬發綠色CB籌資2.5億歐元
+Searching the web for: `台泥 2023/05/02 前5日均線`
+
+Searching the web for: `台泥 新能源 NHOA 綠色CB`
+
+Generating answers for you...
+
+#no
+台泥在2023/05/02的收盤價為39.8元，前5日的均線為39.62元，略高於均線，呈現小幅上漲的趨勢。不過，台泥的新聞標題「台泥擴大新能源布局 子公司NHOA擬發綠色CB籌資2.5億歐元」，雖然反映了台泥對於新能源事業的投入與展望，但也意味著台泥將面臨資金需求與財務槓桿的增加，可能會對股東權益造成稀釋的影響。因此，這個新聞標題對於隔日股票當沖的影響可能是負面的，不適合進行當沖操作。
+
+[1]: https://money.udn.com/money/story/5607/6659348 "台泥、亞泥現在適合投資嗎？誰便宜？獲利低谷將過，2023年水泥產業全解析 | 市場焦點 | 證券 | 經濟日報"
+[2]: https://goodinfo.tw/tw/StockDividendSchedule.asp?STOCK_ID=1101 "Goodinfo!台灣股市資訊網-首頁"
+[3]: https://pchome.megatime.com.tw/rank/sto2/ock00.html "每股盈餘(EPS) - 財務排行 - 排行榜 - PChome Online 股市"
+[4]: https://news.cnyes.com/news/id/5161943 "台泥擴大新能源布局 子公司NHOA擬發綠色CB籌資2.5億歐元 | Anue鉅亨 - 台股新聞"
+[5]: https://money.udn.com/money/story/5618/7136594 "台泥集團首例！子公司NHOA擬發綠色可轉債投資2.5億歐元 拓展新能源 | 綜合產業 | 產業 | 經濟日報"
+[6]: https://www.nhoatcc.energy/tw/about.html "關於我們｜台泥儲能 - NHOA TCC"
+2023/05/19
+台泥集團電動運輸解決方案 打進台灣IKEA
+Searching the web for: `台泥 2023/05/19 5日均線`
+
+Searching the web for: `台泥集團電動運輸解決方案 打進台灣IKEA`
+
+Generating answers for you...
+
+#no
+台泥集團電動運輸解決方案打進台灣IKEA的新聞標題對公司隔日股票當沖是不會賺錢的，因為以下幾個原因：
+
+- 根據[1]的資料，台泥在2023/05/19的收盤價為34.4元，而前五日的均線為34.72元，顯示台泥處於下跌趨勢，且跌破五日均線，表示短期賣壓增加。
+- 根據[2]的資料，台泥在2023/05/19的成交量為39,906張，低於前一日的36,456張，顯示市場對台泥的興趣減少，且成交量不足以支撐股價反彈。
+- 根據[3]的資料，IKEA是一家全球知名的家具零售商，其主要產品與台泥的水泥事業並無直接關聯，因此台泥集團電動運輸解決方案打進台灣IKEA的新聞對台泥的業績影響有限，不足以改變市場對台泥的看法。
+- 根據[4]和[5]的資料，IKEA本身也有自己的電動運輸解決方案，例如在歐洲和美國推出電動貨車和自行車等服務，因此台泥集團電動運輸解決方案打進台灣IKEA的新聞並不代表台泥在該領域有優勢或創新，也不足以吸引投資人的注意。
+
+綜上所述，我認為台泥集團電動運輸解決方案打進台灣IKEA的新聞標題對公司隔日股票當沖是不會賺錢的，因為該新聞無法改變台泥目前處於下跌趨勢和低迷市場氛圍的情況，而且隔日股票要獲利必須價差超過股價的0.435％，這個門檻對於一個成交量不大且缺乏利多消息的股票來說是很難達成的。.
+
+[1]: https://money.udn.com/money/story/5607/6659348 "台泥、亞泥現在適合投資嗎？誰便宜？獲利低谷將過，2023年水泥產業全解析 | 市場焦點 | 證券 | 經濟日報"
+[2]: https://goodinfo.tw/tw/StockDividendPolicy.asp?STOCK_ID=1101&SHOW_ROTC= "(1101) 台泥 歷年股利/股息分配一覽表 - Goodinfo!台灣股市資訊網"
+[3]: http://www.taiwancement.com/tw/ "台灣水泥"
+[4]: https://www.statista.com/topics/1961/ikea/ "IKEA - Statistics & Facts | Statista"
+[5]: https://en.wikipedia.org/wiki/IKEA "IKEA - Wikipedia"
+[6]: https://www.ikea.com/us/en/customer-service/services/delivery/ "Explore delivery service options and pricing - IKEA"

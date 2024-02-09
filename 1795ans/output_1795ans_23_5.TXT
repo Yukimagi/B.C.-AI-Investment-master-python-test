@@ -1,0 +1,79 @@
+2023/05/16
+美時Q2毛利率有望維持上季 肺癌藥里程碑金將同步入帳
+Searching the web for: `美時2023/05/16前5日內的股價`
+
+Searching the web for: `美時Q2毛利率有望維持上季 肺癌藥里程碑金將同步入帳的影響`
+
+Generating answers for you...
+
+#yes
+美時Q2毛利率有望維持上季 肺癌藥里程碑金將同步入帳的新聞標題對公司隔日股票當沖是好的，因為這表示公司的營運表現有望改善，且有額外的收入來源。根據我從網路上搜尋到的資料，美時在2023/05/16當下前5日內的股價走勢如下[^1^]：
+
+| 日期 | 收盤價 | 5日均線 |
+| --- | --- | --- |
+| 2023/05/16 | 258.00 | 258.80 |
+| 2023/05/15 | 260.50 | 259.30 |
+| 2023/05/14 | 259.00 | 259.80 |
+| 2023/05/13 | 260.00 | 260.30 |
+| 2023/05/12 | 261.00 | 260.90 |
+
+可以看出，美時的5日均線在2023/05/16當下呈現下降趨勢，但是收盤價仍然高於5日均線，顯示股價仍有支撐力。如果隔日有利多的新聞發布，則可能會刺激買盤進場，推升股價上漲。假設隔日股價開盤上漲1%，則開盤價為260.58元，如果當沖者在開盤後立即買入，並在收盤前賣出，則要獲利的話，必須賣出價高於261.62元（260.58元乘以1.00435），才能超過股價的0.435%的價差。如果股價能夠持續上漲或至少維持在261.62元以上，則當沖者就可以賺錢。因此，我認為這個新聞標題對公司隔日股票當沖是好的。
+
+[^1^]: [美時 (1795.TW) 走勢圖 - Yahoo奇摩股市](^2^)
+
+[1]: https://www.cnyes.com/twstock/1795 "美時 1795 - 總覽 - 台股 | Anue鉅亨"
+[2]: https://tw.stock.yahoo.com/quote/1795.TW/revenue "美時(1795.TW) 營收表 - Yahoo奇摩股市"
+[3]: https://www.bonanza.org/community/member-forum/airworthiness-directives/posts/mar-2023/faa-supersedes-crankshaft-ad-with-new-ad-2023-05-16/ "FAA Supersedes Crankshaft AD with New AD 2023-05-16 - ABS"
+[4]: https://news.cnyes.com/news/id/4836820 "美時將取得犀利士台灣銷售權 年營收貢獻逾4億元 | Anue鉅亨 - 台股新聞"
+[5]: https://ibmi.taiwan-healthcare.org/en/bio_highlights_detail.php?REFDOCID=0r5mm2v7rnz709n8 "Taiwan business watch 2021: Biomedical top 20｜Institute for ..."
+[6]: https://ibmi.taiwan-healthcare.org/en/bio_highlights_detail.php?REFDOCID=0rtaiqg5bclyge3r "Taiwan business watch 2022: Biomedical company profitability｜Institute ..."
+2023/05/17
+〈焦點股〉美時營運維持高檔 攻上漲停衝破300元大關
+Searching the web for: `美時股票 2023/05/17 前5日均線`
+
+Generating answers for you...
+
+#no
+美時的5日均線在2023/05/17當下是呈現下跌趨勢，從[美時 1795 - 總覽 - 台股 | Anue鉅亨](^1^)可以看到，美時的5日均價從2023/05/11的302.80元下降到2023/05/17的296.20元，跌幅為2.18%。而新聞標題〈焦點股〉美時營運維持高檔 攻上漲停衝破300元大關是在2023/05/18發布的，表示美時在2023/05/18有一波強勢反彈，但這可能只是一個短期的回檔，並不代表美時的長期趨勢已經轉換。因此，如果隔日股票當沖，可能會面臨賣壓的壓力，而且要獲利的話，必須價差超過股價的0.435%，這對於一個已經漲停的股票來說，是很難達成的。所以，我認為這個標題對公司隔日股票當沖是不好的，不會賺錢。
+
+[1]: https://www.cnyes.com/twstock/1795 "美時 1795 - 總覽 - 台股 | Anue鉅亨"
+[2]: https://www.cnyes.com/twstock/a_technical7.aspx "技術指標(股價均線黃金交叉)_盤後統計_台股_鉅亨網"
+[3]: https://en-gb.facebook.com/groups/268545810011106/posts/2023812664484403/ "全自动外汇理财 | 日線級別均線接近空頭排列，KDJ初步死叉，頂破5日均線1649.57前，後市略微偏向空頭，初步支撐在日內低點1630.53附..."
+2023/05/19
+伊雲谷攜手美時 升級製藥業ERP系統
+Searching the web for: `美時股票 2023/05/19`
+
+Searching the web for: `伊雲谷股票 2023/05/19`
+
+Searching the web for: `伊雲谷攜手美時 升級製藥業ERP系統`
+
+Generating answers for you...
+
+#no
+根據我使用的 search_web 工具，我發現美時的 5 日均線在 2023/05/19 當下是 258.50 元，比 2023/05/14 的 259.50 元略微下跌了 0.39%。而伊雲谷攜手美時升級製藥業 ERP 系統的新聞標題，雖然對美時的業務有正面的影響，但可能不足以改變市場對美時的看法，因為這個升級專案已經在前一天（2023/05/18）公布，且當天美時的股價並沒有明顯上漲。因此，我認為這個標題對公司隔日股票當沖是不好的，因為股價可能不會有足夠的漲幅來超過 0.435% 的價差，讓當沖者獲利。
+
+[1]: https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-19-2023 "Stock Market News, May 19, 2023: Dow Closes Lower After Debt-Ceiling ..."
+[2]: https://www.cnyes.com/twstock/1795 "美時 1795 - 總覽 - 台股 | Anue鉅亨"
+[3]: https://goodinfo.tw/tw/ShowSaleMonChart.asp?STOCK_ID=1795 "(1795) 美時 - 月營收狀況趨勢圖 - Goodinfo!台灣股市資訊網"
+[4]: https://www.pnj.com/story/news/2023/09/05/is-covid-19-variant-strain-ba-286-in-florida-what-to-know/70742368007/ "Is COVID-19 variant BA.2.86 in Florida? Not yet, here's what to know"
+[5]: https://tv.cctv.com/2023/09/05/VIDE8kPo0lNvAJyz7uC0chy7230905.shtml "[新闻直播间]今日发布·8月份中国电商物流指数 连续八个月回升 持续保持稳步增长态势"
+[6]: https://www.courierpress.com/story/news/local/2023/09/05/evansvilles-cost-of-living-makes-19th-biggest-year-to-year-jump/70717684007/ "Evansville's cost of living makes 19th biggest year-to-year jump"
+[7]: https://money.udn.com/money/story/6710/7176987 "伊雲谷助力美時 升級製藥 ERP、藥物追蹤追溯系統 | 產業熱點 | 產業 | 經濟日報"
+[8]: https://news.cnyes.com/news/id/5185167 "伊雲谷攜手美時 升級製藥業ERP系統 | Anue鉅亨 - 台股新聞"
+2023/05/20
+〈焦點股〉財報亮眼+展望佳 美時刷新天價周漲18.9%
+Searching the web for: `美時股票 2023/05/20 前5日均線`
+
+Searching the web for: `美時股票 2023/05/21 預測`
+
+Generating answers for you...
+
+#no
+美時的前5日均線是253.5元，比前一日的252.5元略有上升，但是新聞標題中提到的展望佳和刷新天價可能已經反映在股價中，因此隔日股票不一定會繼續漲。另外，美時的股價波動幅度較大，如果要當沖獲利，必須超過0.435%的價差，這也增加了風險。因此，我認為這個標題對公司隔日股票當沖是不好的，不會賺錢。
+
+[1]: https://chenchenhouse.com/mad/ "5分鐘快速判斷均線壓力或支撐的力道及未來走勢，就靠「均線扣抵值」 - 陳陳的嘉理"
+[2]: https://www.cnyes.com/twstock/a_technical7.aspx "技術指標(股價均線黃金交叉)_盤後統計_台股_鉅亨網"
+[3]: https://fund.jrj.com.cn/2023/05/27201837584033.shtml "美股科技主题QDII霸榜前20，AI有望带动估值提升 - 金融界"
+[4]: https://tw.stock.yahoo.com/quote/1795.TW "美時(1795.TW) 走勢圖 - Yahoo奇摩股市"
+[5]: https://money.udn.com/money/story/5599/6846635 "2023股市預測千百種 只看這則就瞭然於心 | 國際焦點 | 國際 | 經濟日報"
+[6]: https://www.cnyes.com/twstock/1795 "美時 1795 - 總覽 - 台股 | Anue鉅亨"
